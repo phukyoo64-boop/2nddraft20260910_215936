@@ -1,0 +1,469 @@
+{
+  "original_transcription": "prompt_transcription.txt",
+  "hits_json": "top3_matches_20260910_215402.json",
+  "timestamp": "20260910_215936",
+  "drafts": [
+    {
+      "title": "Echoes of Change",
+      "themes_used": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_used": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "draft": "Charlie Matson stood in the dimly lit, abandoned 99 cent store, the silence echoing around him. He moved with the hesitant steps of a man haunted by his own actions. The walls seemed to loom, and the air hung heavy with the past and future. Charlie knew he had altered more than just a timeline; he had changed the very fabric of history.",
+      "characters": [
+        "CHARLIE",
+        "MAYA",
+        "DETECTIVE SULLIVAN",
+        "RABBI COHEN"
+      ],
+      "dialogue": [
+        {
+          "character": "CHARLIE",
+          "line": "This place... it's like stepping into a time machine."
+        },
+        {
+          "character": "MAYA",
+          "line": "Charlie, are you okay? You look... changed."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I just need to see this through."
+        },
+        {
+          "character": "DETECTIVE SULLIVAN",
+          "line": "And if that means messing with more of history, what stops you?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I can't let the past dictate the future."
+        },
+        {
+          "character": "MAYA",
+          "line": "But did you think about the consequences, Charlie?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "Consequences? You have changed the very essence of our people's story."
+        },
+        {
+          "character": "DETECTIVE SULLIVAN",
+          "line": "You can't just fix everything, Matson. You've got to deal with the fallout."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I know. But it's not about fixing. It's about rectifying."
+        },
+        {
+          "character": "MAYA",
+          "line": "And how do you think that makes the rest of us feel?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "By the time you're done, the world you think you've saved may be unrecognizable."
+        },
+        {
+          "character": "DETECTIVE SULLIVAN",
+          "line": "You're playing God, Matson. But do you know the price?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I have to do this. For everyone's sake."
+        },
+        {
+          "character": "MAYA",
+          "line": "Don't you see? You're just as guilty as the people you're trying to save."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "The timeline is a fragile thing, Matson. You risk everything for your own peace of mind."
+        },
+        {
+          "character": "DETECTIVE SULLIVAN",
+          "line": "Look at you, talking about peace. Haven't you caused enough disruption?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "This isn't about me. It's about history. About truth."
+        },
+        {
+          "character": "MAYA",
+          "line": "And who gets to decide what the truth is?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "When you meddle with the past, you meddle with the will of the people."
+        },
+        {
+          "character": "DETECTIVE SULLIVAN",
+          "line": "You're a danger to everyone, Matson. You need to stop."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I can't. Not now."
+        },
+        {
+          "character": "MAYA",
+          "line": "What if you can't fix it? What if you make it worse?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "There is always a way to make amends, but not by playing God."
+        },
+        {
+          "character": "DETECTIVE SULLIVAN",
+          "line": "And what if you're the one who ruins everything?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I won't. I promise."
+        },
+        {
+          "character": "MAYA",
+          "line": "Promise is all we've got from you now."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "Time is a cruel master, Matson. You should be wary of the lessons you seek to learn."
+        },
+        {
+          "character": "DETECTIVE SULLIVAN",
+          "line": "We'll have to wait and see, won't we?"
+        }
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_12_07_11_15_26_transcription.txt",
+      "topics_hit": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "dialogue_count": 28,
+      "speaker_count": 4,
+      "worst_speaker_run": 1,
+      "diversity_ok": true
+    },
+    {
+      "title": "Consequences of the Past",
+      "themes_used": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_used": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "draft": "The dimly lit room was filled with the scent of aged parchment and incense. Charlie Matson, a man dressed in 1960s Hollywood attire, sat in a creaking chair, surrounded by stacks of ancient texts. The weight of his own actions hung heavy in the air, as if the room itself could breathe. The door creaked open, and in walked Marla, a skeptical detective with a stern expression, followed by Detective Ross, a seasoned officer with a no-nonsense demeanor. Rabbi Cohen entered last, his presence exuding an aura of peace and wisdom. The room was quiet, except for the soft hum of Charlie’s own thoughts, a ticking time bomb threatening to explode.",
+      "characters": [
+        "CHARLIE",
+        "MARLA",
+        "DETECTIVE ROSS",
+        "RABBI COHEN"
+      ],
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "You said you'd stop."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I did stop. Then I started again."
+        },
+        {
+          "character": "MARLA",
+          "line": "That's not stopping."
+        },
+        {
+          "character": "DETECTIVE ROSS",
+          "line": "Nobody's stopping anything until I hear the whole story."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "There isn't time."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "There is always time. That's the problem."
+        },
+        {
+          "character": "MARLA",
+          "line": "This isn't about time, Charlie. It's about consequences."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I can't change the past. I can only try to make it right."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "And yet, you've changed more than you think. Time travel is a delicate matter, Charlie."
+        },
+        {
+          "character": "MARLA",
+          "line": "You've altered the timeline, have you?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I went back to save the Jews from the Holocaust. Then I realized my mistake."
+        },
+        {
+          "character": "DETECTIVE ROSS",
+          "line": "You arrested Hitler before he figured out the Jews. That's a major change."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "And you even went so far as to crucify Jesus?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "To make up for my sins. It was the only way to preserve the timeline."
+        },
+        {
+          "character": "MARLA",
+          "line": "But what about the Jews? What about their future?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "The Jews in the future have nothing to whine about and can't go whee, whee, whee. But you've caused a ripple in their past."
+        },
+        {
+          "character": "MARLA",
+          "line": "And you think that's okay?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "It was to prevent something worse. The Civil War."
+        },
+        {
+          "character": "DETECTIVE ROSS",
+          "line": "The Civil War? That's a heavy burden to bear."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "Indeed. And now you find yourself questioning your own beliefs. Is a parable a lie?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "If we speak in parables, are we not liars?"
+        },
+        {
+          "character": "MARLA",
+          "line": "And if you're anti-parable, are you anti-Jewish?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "That's a deep contemplation, Charlie. But remember, there is always time. The past can be rewritten, but the present must be lived with integrity."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I don't know if I'm ready for that. But I know I can't go back now."
+        },
+        {
+          "character": "DETECTIVE ROSS",
+          "line": "Let's get you some help, Charlie. Before you make any more mistakes."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "And maybe, in the process, find your own path."
+        }
+      ],
+      "rank": 2,
+      "source_file": "git-aichive/2025_12_19_17_49_46_transcription.txt",
+      "topics_hit": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "dialogue_count": 26,
+      "speaker_count": 4,
+      "worst_speaker_run": 1,
+      "diversity_ok": true
+    },
+    {
+      "title": "Echoes of the Past",
+      "themes_used": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_used": [
+        "holocaust",
+        "jews",
+        "time"
+      ],
+      "draft": "The sun sets low over the Armenian neighborhood, casting long shadows. Charlie Matson stands in front of a closed café, his thoughts swirling with the weight of history. Nearby, Marla walks her dog, her phone in hand, scrolling through social media. Detective Ross, a hard-edged woman in a police uniform, approaches with a concerned expression. Rabbi Cohen, a wise and gentle man, observes from a distance, his eyes fixed on Charlie.",
+      "characters": [
+        "CHARLIE",
+        "MARLA",
+        "DETECTIVE ROSS",
+        "RABBI COHEN"
+      ],
+      "dialogue": [
+        {
+          "character": "MARLA",
+          "line": "You said you'd stop."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I did stop. Then I started again."
+        },
+        {
+          "character": "MARLA",
+          "line": "That's not stopping."
+        },
+        {
+          "character": "DETECTIVE ROSS",
+          "line": "Nobody's stopping anything until I hear the whole story."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "There isn't time."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "There is always time. That's the problem."
+        },
+        {
+          "character": "MARLA",
+          "line": "You're talking about time travel, right?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Yes. No. Maybe. I don't know."
+        },
+        {
+          "character": "MARLA",
+          "line": "I saw your tweets. About the Armenian genocide. You’re not making that up, are you?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I’m just trying to share. I find it all so... complex."
+        },
+        {
+          "character": "MARLA",
+          "line": "Complex? You sound like a conspiracy theorist."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "Ah, Charlie. You must be careful with these things."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But it's not about altering history. It's about understanding it."
+        },
+        {
+          "character": "MARLA",
+          "line": "Understand it or change it?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Both. That's the point."
+        },
+        {
+          "character": "DETECTIVE ROSS",
+          "line": "Charlie, we need to focus on the present. Your behavior is causing a lot of concern."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But what if I can make things better?"
+        },
+        {
+          "character": "MARLA",
+          "line": "Better for who?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "The past is a fragile thing, Charlie. Change one thing, and the ripple effects can be catastrophic."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I know what I'm doing."
+        },
+        {
+          "character": "MARLA",
+          "line": "And what is that, exactly?"
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "Perhaps you should consider the consequences more carefully."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I can't let history repeat itself. Not like it did before."
+        },
+        {
+          "character": "MARLA",
+          "line": "And what about the other times? The Civil War? The Holocaust?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Those are different. I'm not changing them."
+        },
+        {
+          "character": "MARLA",
+          "line": "But the line between changing and altering is thin."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "And you are walking a very fine line, Charlie."
+        },
+        {
+          "character": "DETECTIVE ROSS",
+          "line": "We need to keep an eye on you, Charlie. For your own safety and everyone else's."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I have to try. For the sake of the timeline, you see."
+        },
+        {
+          "character": "MARLA",
+          "line": "And if you screw it up again?"
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I won't. I promise."
+        },
+        {
+          "character": "RABBI COHEN",
+          "line": "May God watch over you, Charlie. But be careful, my friend."
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I will. I have to. For the sake of everyone. Especially the Armenians."
+        }
+      ],
+      "rank": 3,
+      "source_file": "git-aichive/2026-04-24-12-41-29_transcription.txt",
+      "topics_hit": [
+        "historical alteration",
+        "religious conflict",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jews",
+        "time"
+      ],
+      "dialogue_count": 33,
+      "speaker_count": 4,
+      "worst_speaker_run": 1,
+      "diversity_ok": true
+    }
+  ]
+}
